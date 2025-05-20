@@ -1,6 +1,6 @@
 # Glosario de Términos Informáticos (A-Z)
 
-## 📖 Descripción
+## gi Descripción
 
 Este proyecto consiste en un glosario digital que está dividido en dos secciones:
 
@@ -9,7 +9,7 @@ Este proyecto consiste en un glosario digital que está dividido en dos seccione
 
 Cada una de las páginas presenta términos clave relacionados con hardware y software, ordenados alfabéticamente con definiciones breves y claras.
 
-## 🛠️ Características Técnicas
+## gi Características Técnicas
 
 * **Estructura modular:** Dos archivos HTML interrelacionados.
 * **Diseño consistente:** Estilos visuales uniformes en un solo archivo CSS.
@@ -17,7 +17,7 @@ Cada una de las páginas presenta términos clave relacionados con hardware y so
 * **Adaptabilidad:** Diseño responsive que se ajusta a distintos tamaños de pantalla.
 * **Contenido detallado:** Cada letra del alfabeto incluye al menos 4 términos técnicos.
 
-## 🎨 Estilo Visual
+##  Estilo Visual
 
 * **Colores profesionales:** Usando tonos de azul y gris.
 * **Tipografía legible:** Fuente clara y fácil de leer.
@@ -25,7 +25,7 @@ Cada una de las páginas presenta términos clave relacionados con hardware y so
 * **Diseño ordenado:** Secciones bien definidas y estructura limpia.
 * **Estética moderna:** Estilo minimalista y atractivo.
 
-## 📂 Estructura de Archivos
+## gi Estructura de Archivos
 
 ```
 .vscode
