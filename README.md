@@ -1,6 +1,6 @@
 # Glosario de Términos Informáticos (A-Z)
 
-## gi Descripción
+## git Descripción
 
 Este proyecto consiste en un glosario digital que está dividido en dos secciones:
 
@@ -49,6 +49,6 @@ glosario_palabras_HTML_CSS/
 
 ```
 
-## ©️ Licencia
+## @ Licencia
 
 Este proyecto se encuentra bajo la Licencia MIT, lo que permite su uso y modificación libremente.
